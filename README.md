@@ -6,6 +6,17 @@ I was inspired by a fancy clock on Instagram called "A Million Times," and I wan
 I made this project because I wanted to challenge myself and combine multiple different projects that I've been really interested in for the past few months, like building my own interactive speaker. I'm a beginner to hardware, so I also like the balance of convoluted but repetitive hardware and challenging software, helping me build on my current skills and learn something new.   
 
 ### Assembled CAD
+Front view: 
+<img width="2336" height="1039" alt="image" src="https://github.com/user-attachments/assets/c144a17a-5498-4467-9f82-1831a70874c6" />
+
+Isometric view:
+<img width="1695" height="1102" alt="image" src="https://github.com/user-attachments/assets/a3479e13-1dea-484d-82ec-f865afac801a" />
+
+Back view:
+<img width="2343" height="1072" alt="image" src="https://github.com/user-attachments/assets/21363fc4-ca67-44c6-95b6-44b4762bd8bf" />
+
+Back view with wood:
+<img width="1583" height="960" alt="image" src="https://github.com/user-attachments/assets/ee50af27-5026-44e5-af76-7c25f003fb70" />
 
 ### BOM
 
@@ -28,3 +39,4 @@ I made this project because I wanted to challenge myself and combine multiple di
 ## Wiring Diagram
 <img width="1478" height="1048" alt="image" src="https://github.com/user-attachments/assets/5b176e98-0ec0-4856-b425-b60e2435274b" />
 
+Notes:
