@@ -11,6 +11,7 @@ total_hrs_spent: 25 + 15 = 40
 ## Hours spent: 10
 I've been wanting to make this clock for a long time, it was mesmerizing and also looked like a fun hardware and programming challenge, so I wanted to do it.  
 <img width="1920" height="1166" alt="image" src="https://github.com/user-attachments/assets/fcba7dde-943b-4003-bf02-1e3aed9df048" />
+<img width="1070" height="713" alt="image" src="https://github.com/user-attachments/assets/ff72d9eb-f9dc-40bb-9077-ad1d7acffbce" />
 
 But, to make it my own, I wanted to include certain features that would make it desirable for my workspace:
 <img width="360" height="213" alt="image" src="https://github.com/user-attachments/assets/72eb2c15-a4d9-44e1-aba6-e7e4369096d0" />
