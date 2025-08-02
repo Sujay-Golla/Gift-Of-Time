@@ -1,3 +1,6 @@
+// THIS IS SAMPLE CODE FROM A TUTORIAL I WAS USING FOR THE CLOCK: https://www.instructables.com/Clockception-How-to-Build-a-Clock-Made-From-Clocks/
+// There is obviously a lot more code for every unique feature that I didn't bother copy pasting from other tutorials but the links for the tutorials were posted in the Journal
+// This is almost a placeholder file, and will be updated when I start physically building - Sujay
 #include <Wire.h>
 #include <Adafruit_PWMServoDriver.h>
 
