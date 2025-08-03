@@ -12,11 +12,14 @@ Front view:
 Isometric view:
 <img width="1695" height="1102" alt="image" src="https://github.com/user-attachments/assets/a3479e13-1dea-484d-82ec-f865afac801a" />
 
+Side view:
+<img width="437" height="1179" alt="image" src="https://github.com/user-attachments/assets/8dd91e72-8a35-4097-aade-ebcd50725894" />
+
 Back view:
-<img width="2343" height="1072" alt="image" src="https://github.com/user-attachments/assets/21363fc4-ca67-44c6-95b6-44b4762bd8bf" />
+<img width="2353" height="1069" alt="image" src="https://github.com/user-attachments/assets/a0a8bbdd-6e49-45cf-a6e2-83a38a0eb74f" />
 
 Back view with wood:
-<img width="1583" height="960" alt="image" src="https://github.com/user-attachments/assets/ee50af27-5026-44e5-af76-7c25f003fb70" />
+<img width="2024" height="922" alt="image" src="https://github.com/user-attachments/assets/2ecf3b27-79f1-4b94-8592-8ca39bb3dfd4" />
 
 ### BOM
 
