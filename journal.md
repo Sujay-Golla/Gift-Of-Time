@@ -4,7 +4,7 @@ author: "Sujay"
 description: "Inspired by the clock 'A Million Times', but with additional features and a screen to control unique features"
 created_at: "2025-07-30"
 total_hrs_submitted: 25
-total_hrs_spent: 25 + 15 = 40
+total_hrs_spent: 25 + 18 = 43
 ---
 
 # July 30 - Brainstorming, research, BOM
@@ -43,3 +43,11 @@ Then, I thought of making a frame to connect everything together, but it can't p
 <img width="1375" height="1006" alt="image" src="https://github.com/user-attachments/assets/1dcb2bee-64d8-45cc-b366-ce0c57c9a0b4" />
 
 But for the last edge, I needed it to be different as it had to hold a speaker and a screen, so I custom designed them (which was repetitive and took a while) but I finished it in a few hours. I had to make a lot of makeshift components as rectangular prism placeholders as it was impractical and unnecessary to find individual CAD models for this purpose. I also changed the colors of the frame, makeshift components, wood, etc. to make it look appealing and I finally made small adjustments to make sure everything could be screwed to wood. Final pictures are in the README file. Also had to make a "Notes to Reviewers" section to make sure I could communicate everything neatly. With this, I hope this project goes through :D (and I can finally get some sleep T-T)
+
+# August 4 - Some quick CAD things
+## Hours spent: 3
+I forgot to add some customizations like engraving, so I did that real quick. From unofficial reviewers, I found out that I should make my makeshift components look similar to the actual electronics, so I fixed those. Acon also asked to explain the problem with the wiring diagram, so I added an illustration and explanation to the README.
+Here's some screenshots:
+<img width="437" height="1179" alt="image" src="https://github.com/user-attachments/assets/44d647e1-01dd-497c-a63e-f2ee048a1197" />
+<img width="2353" height="1069" alt="image" src="https://github.com/user-attachments/assets/85e7012b-3d0d-4db5-ac65-d5f6f1674160" />
+<img width="960" height="767" alt="image" src="https://github.com/user-attachments/assets/b60c490f-eee8-4054-ab40-2804a2afc3d8" />
