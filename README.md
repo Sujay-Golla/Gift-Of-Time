@@ -46,7 +46,7 @@ Total cost: 125 USD
 ## Wiring Diagram
 <img width="1478" height="1048" alt="image" src="https://github.com/user-attachments/assets/5b176e98-0ec0-4856-b425-b60e2435274b" />
 
-Notes for reviewers:
+## Notes for reviewers:
 - Although I've sourced most of the electronics at first from AliExpress, one of my cool friends said I could take some of the components I needed, so I won't be buying them with the Hack Club Grant. I've changed the prices of those items to $0
 - By saving some money, I also decided to spend some on a growing concern about the noise of 48 servos, so I added soundproofing foam and wood to the BOM to make the clock complete.
 - A lot of the CAD assembly has been worked on after submission, as I was trying to rush and submit the project in time.. (The procrastination was real) sorry about that :(
