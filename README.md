@@ -23,25 +23,25 @@ Back view with wood:
 
 ### BOM
 
-| Item | Quantity | CAD Unit Cost | USD Unit Cost | USD Total Cost (incl. tax) | Link |
-|------|----------|----------------|----------------|-----------------------------|------|
-| 50 pcs 360 degree Servo | 1 | $79.99 | $58.39 | $65.98 | https://www.aliexpress.com/item/1005007804414193.html |
-| Nano ESP32 Pre soldered | 1 | $0.00 | $0.00 | $0.00 | https://www.aliexpress.com/item/1005007277867368.html |
-| 3 pcs - 16 channel servo controller | 1 | $5.03 | $3.67 | $4.15 | https://www.aliexpress.com/item/1005005670283526.html |
-| Time Module | 1 | $0.00 | $0.00 | $0.00 | https://www.aliexpress.com/item/1005007143596890.html |
-| Jumper Wire kits | 2 | $0.00 | $0.00 | $0.00 | https://www.aliexpress.com/item/1005003219096948.html |
-| 5V 10A Power Supply | 1 | $12.48 | $9.11 | $10.29 | https://www.aliexpress.com/item/33051556213.html |
-| RGB LED Strips | 1 | $7.49 | $5.47 | $6.18 | https://www.aliexpress.com/item/1005007914556601.html |
-| 750 point Experimental Breadboard | 1 | $0.00 | $0.00 | $0.00 | https://www.aliexpress.com/item/1005007399563936.html |
-| 4 Ohm 3W Speaker | 1 | $3.27 | $2.39 | $2.70 | https://www.aliexpress.com/item/1005005699690954.html |
-| MAX98357 3.2W Audio Amplifier | 1 | $2.33 | $1.70 | $1.92 | https://www.aliexpress.com/item/1005007629020891.html |
-| 2.8" LCD Touch Screen | 1 | $2.64 | $1.93 | $2.18 | https://www.aliexpress.com/item/1005006623369442.html |
-| Assortment of buttons | 1 | $3.79 | $2.77 | $3.13 | https://www.aliexpress.com/item/1005004198996493.html |
-| 300 pcs resistors set | 1 | $0.00 | $0.00 | $0.00 | https://www.aliexpress.com/item/1005005855324735.html |
-| Soundproofing Foam - 6 pcs - 1ft by 1ft | 1 | $10.48 | $7.65 | $8.64 | https://www.aliexpress.com/item/1005007009108142.html |
-| White Hardwood | 1 | $22.98 | $16.78 | $18.96 | https://www.homedepot.ca/product/cutler-group-white-hardboard-1-8-x-4-x-8/1000167407 |
+| Expense Details                         | Quantity | CAD Unit Cost | USD Unit Cost | USD Total Cost (incl. tax) | URL |
+|----------------------------------------|----------|----------------|----------------|------------------------------|-----|
+| 50 pcs 360 degree Servo                | 1        | $79.99         | $58.39         | $65.98                       | https://www.aliexpress.com/item/1005007804414193.html |
+| Nano ESP32 Pre soldered                | 1        | $0.00          | $0.00          | $0.00                        | https://www.aliexpress.com/item/1005007277867368.html |
+| 3 pcs - 16 channel servo controller    | 1        | $5.03          | $3.67          | $4.15                        | https://www.aliexpress.com/item/1005005670283526.html |
+| Time Module                            | 1        | $0.00          | $0.00          | $0.00                        | https://www.aliexpress.com/item/1005007143596890.html |
+| Jumper Wire kits                       | 2        | $0.00          | $0.00          | $0.00                        | https://www.aliexpress.com/item/1005003219096948.html |
+| 5V 10A Power Supply                    | 1        | $12.48         | $9.11          | $10.29                       | https://www.aliexpress.com/item/33051556213.html |
+| RGB LED Strips                         | 1        | $7.49          | $5.47          | $6.18                        | https://www.aliexpress.com/item/1005007914556601.html |
+| 750 point Experimental Breadboard      | 1        | $0.00          | $0.00          | $0.00                        | https://www.aliexpress.com/item/1005007399563936.html |
+| 4 Ohm 3W Speaker                       | 1        | $3.27          | $2.39          | $2.70                        | https://www.aliexpress.com/item/1005005699690954.html |
+| MAX98357 3.2W Audio Amplifier          | 1        | $2.33          | $1.70          | $1.92                        | https://www.aliexpress.com/item/1005007629020891.html |
+| 2.8" LCD Touch Screen                  | 1        | $2.64          | $1.93          | $2.18                        | https://www.aliexpress.com/item/1005006623369442.html |
+| Assortment of buttons                  | 1        | $3.79          | $2.77          | $3.13                        | https://www.aliexpress.com/item/1005004198996493.html |
+| 300 pcs resistors set                  | 1        | $0.00          | $0.00          | $0.00                        | https://www.aliexpress.com/item/1005005855324735.html |
+| Soundproofing Foam - 6 pcs - 1ft x 1ft | 1        | $10.48         | $7.65          | $8.64                        | https://www.aliexpress.com/item/1005007009108142.html |
+| White Hardwood                         | 1        | $22.98         | $16.78         | $18.96                       | https://www.homedepot.ca/product/cutler-group-white-hardboard-1-8-x-4-x-8/1000167407 |
 
-Total cost: 125 USD
+Total cost: 109 USD
 
 ## Wiring Diagram
 <img width="1478" height="1048" alt="image" src="https://github.com/user-attachments/assets/5b176e98-0ec0-4856-b425-b60e2435274b" />
