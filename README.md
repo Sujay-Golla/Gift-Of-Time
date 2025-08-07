@@ -41,9 +41,9 @@ Back view with wood:
 | Soundproofing Foam - 6 pcs - 1ft by 1ft | 1 | $10.48 | $7.65 | $8.64 | [Link](https://www.aliexpress.com/item/1005007009108142.html) |
 | White Hardwood | 1 | $22.98 | $16.78 | $18.96 | [Link](https://www.homedepot.ca/product/cutler-group-white-hardboard-1-8-x-4-x-8/1000167407) |
 | 24 AWG 10 m Silicone wire | 1 | $3.48 | $2.54 | $2.87 | [Link](https://www.aliexpress.com/item/1005006064722016.html) |
-| Panel wood 5/8 in. x 15 3/4 in. x 96 in. | 2 | $17.98 | $13.13 | $29.66 | [Link](https://www.homedepot.ca/product/columbia-forest-products-5-8-in-x-15-3-4-in-x-96-in-smarttop-shelving/1000185643) |
+| Panel wood 5/8 in. x 15 3/4 in. x 96 in. | 1 | $17.98 | $13.13 | $14.83 | [Link](https://www.homedepot.ca/product/columbia-forest-products-5-8-in-x-15-3-4-in-x-96-in-smarttop-shelving/1000185643) |
 
-Total cost: 138 USD
+Total cost: 124 USD
 
 ## Wiring Diagram
 <img width="1478" height="1048" alt="image" src="https://github.com/user-attachments/assets/5b176e98-0ec0-4856-b425-b60e2435274b" />
